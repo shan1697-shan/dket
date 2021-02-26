@@ -1,0 +1,13 @@
+*.pyc
+.py3venv
+dket.egg-info
+tests/toytask/**/*.log
+tests/toytask/pointsoftmax-000/train
+tests/toytask/pointsoftmax-000/eval
+experiments/**/*.log
+experiments/**/eval
+experiments/**/train
+DUMP*
+.log
+.vscode
+.DS_Store
